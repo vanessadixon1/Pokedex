@@ -1,0 +1,22 @@
+html {
+    font-size: 62.5%;
+    margin:0;
+    padding:0;
+    max-width: 100%;
+}
+.Pokecard {
+    background-color: lightgray;
+    width: 15%;
+    margin: 3%;
+    border-radius: 8%;
+}
+
+img {
+    width:40%;
+    margin:0 30%;
+}
+
+h1 {
+    color:blue;
+    font-size: 1.8rem;
+}
